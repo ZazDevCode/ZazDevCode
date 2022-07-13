@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZazDevCode
+- 👋 Hi, I’m Sascha Wernars
 - 👀 I’m interested in PHP and MySQL
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP framework Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact met at s@scha.nl
 
 <!---
 ZazDevCode/ZazDevCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
