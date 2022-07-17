@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sascha Wernars
 - 👀 I’m interested in PHP and MySQL
-- 🌱 I’m currently learning PHP framework Laravel
+- 🌱 I’m currently learning the PHP framework Laravel
 - 📫 Contact met at s@scha.nl
 
 I am a hobby programmer and I am currently immersing myself in the PHP Laravel framework. 
