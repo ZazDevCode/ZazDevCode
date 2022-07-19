@@ -3,11 +3,11 @@
 🌱 I’m currently learning the PHP framework Laravel
 📫 Contact met at s@scha.nl
 
-I am a hobby programmer and I am currently immersing myself in the PHP Laravel framework. 
+I am a hobby software developer and I am currently immersing myself in the PHP Laravel framework. 
 
-In my younger years I programmed in visual basic and ASP. From 2000 to 2004 I worked at an advertising agency, where I made websites.
+In my younger years I started in visual basic and ASP. From 2000 to 2004 I worked at an advertising agency, where I created websites.
 
-In 2018 I started programming again, this time in PHP. Using the Scriptcase software, I made a planning program for flexible scheduling of catering staff.
+In 2018 I started with software development again, this time in PHP. Using the Scriptcase software (low code), I made a planning program for flexible scheduling of catering staff.
 
 After getting more acquainted with Laravel, I plan to recreate this software and expand my skills further.
 
