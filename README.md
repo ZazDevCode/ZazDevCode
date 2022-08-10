@@ -5,7 +5,7 @@
 
 I am a hobby software developer and I am currently immersing myself in the PHP Laravel framework. 
 
-In my younger years I started coding in visual basic and ASP. From 2000 to 2004 I worked at an advertising agency, where I created websites.
+In my younger years I started coding in basic and ASP. From 2000 to 2004 I worked at an advertising agency, where I created websites.
 
 In 2018 I started with coding again, this time in PHP. Using the Scriptcase software (low code), I made a planning program for flexible scheduling of catering staff, which is now used by more than 100 users.
 
