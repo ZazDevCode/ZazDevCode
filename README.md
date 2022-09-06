@@ -1,9 +1,8 @@
 👋 Hi, I’m Sascha Wernars
 👀 I’m interested in PHP and MySQL
-🌱 I’m currently rewriting my crew scheduling program Zhift in Laravel, Vue and Inertia JS
 📫 Contact met at s@scha.nl
 
-I am a hobby software developer and I am currently rewriting my crew scheduling program Zhift in Laravel, Vue and Inertia JS.
+I am a hobby software developer and I am currently rewriting my planning program "Zhift" for flexible scheduling of catering staff in Laravel, Vue and Inertia JS.
 
 In my younger years I started coding in basic and ASP. From 2000 to 2004 I worked at an advertising agency, where I created websites.
 
