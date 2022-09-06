@@ -3,7 +3,7 @@
 🌱 I’m currently learning the PHP framework Laravel
 📫 Contact met at s@scha.nl
 
-I am a hobby software developer and I am currently immersing myself in the PHP Laravel framework. 
+I am a hobby software developer and I am currently immersing myself in Laravel 9, Vue 3 en Inertia js. 
 
 In my younger years I started coding in basic and ASP. From 2000 to 2004 I worked at an advertising agency, where I created websites.
 
