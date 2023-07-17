@@ -1,8 +1,6 @@
 👋 Hi, I’m Sascha Wernars
-👀 Make It Work Software Engineering student at the HvA
+👀 I'm graduated as Software Enigineer at the Hoge School van Amsterdam
 📫 Contact met at s@scha.nl
-
-Ik ben afgestudeerd als Software Engineer aan de Hogeschool van Amsterdam.
 
 I am a junior software developer. From September I am working as a software developer at "Kamer van Koophandel" in Utrecht. At the moment I am working on a program for flex workers. For that I use Java for the backend and React for the frontend.
 
